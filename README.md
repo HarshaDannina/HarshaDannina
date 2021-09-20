@@ -30,4 +30,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Underrated Machine Learning Algorithms — APRIORI](https://towardsdatascience.com/underrated-machine-learning-algorithms-apriori-1b1d7a8b7bc?source=rss-f12ee352c68c------2)
+- [My Story: How I got an Internship in IoT and ML company](https://medium.com/@harshadannina/intern-story-e75b2eb37253?source=rss-f12ee352c68c------2)
+- [Perfect Hardware for IoT + ML](https://medium.com/@harshadannina/perfect-hardware-for-iot-ml-7744b63bb5fe?source=rss-f12ee352c68c------2)
+- [Statistical Arbitrage Model](https://medium.com/@harshadannina/statistical-arbitrage-model-256d1bc9b801?source=rss-f12ee352c68c------2)
 <!-- BLOG-POST-LIST:END -->
