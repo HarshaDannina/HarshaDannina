@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Competitive programming**
 
-- 👨‍💻 All of my projects are available at [harshadannina.com](harshadannina.com)
+- 👨‍💻 View my portfolio at [harshadannina.com](harshadannina.com)
 
 - 📝 I regularly write articles on [https://medium.com/@harshadannina](https://medium.com/@harshadannina)
 
