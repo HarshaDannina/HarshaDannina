@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Java Dev & AI/ML Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadannina&label=Profile%20views&color=0e75b6&style=flat" alt="harshadannina" /> </p>
+<img align="right" alt="Coding" width="400" src="logo3.png">
 
 - 🌱 I’m currently learning **Competitive programming**
 
